@@ -24,6 +24,7 @@ The required data was saved as a VIEW in SSMS and then imported into Power BI. P
 
 ## Data Modeling
 The star schema data model was applied to the dataset, with dimension tables such as area, road, severity, journey purpose, casualty, weather, and date. These tables were linked to the facts table through their primary keys, enabling efficient analysis and exploration of the data.
+
 ![Star Schema](PowerBI_Screenshots/schema.png)
 
 ## Data Analysis and Dashboard:
@@ -34,7 +35,7 @@ The data analysis focused on accident trends, severity, correlations, and geogra
 * Average Driver Age: 35 years
 * Average Vehicle Age: 5.27 years
 
-The pages of the dashboard are seen in the screenshot below:
+The pages of the dashboard are seen in the screenshots below:
 
 ![Accident Analysis](PowerBI_Screenshots/accident_analysis.png)
 
