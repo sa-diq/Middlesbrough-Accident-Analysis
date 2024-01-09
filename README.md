@@ -3,7 +3,7 @@
 ## Introduction
 The global concern over road accidents, which result in significant loss of life and property, necessitates the analysis of accident trends to develop effective preventive measures. In the era of data-driven decision-making, leveraging Power BI can provide valuable insights into road accident data.
 
-##
+## Objective
 The objective of this project is to perform a descriptive analysis of road accidents in Middlesbrough to enhance road safety by identifying patterns and trends.
 
 ## Data Source
