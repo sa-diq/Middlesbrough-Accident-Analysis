@@ -16,10 +16,13 @@ Initial exploratory data analysis was conducted in the SSMS environment to gain 
 ## Data Transformation:
 The required data was saved as a VIEW in SSMS and then imported into Power BI. Power Query was used for data transformation. Various steps were taken to prepare the data for analysis, as shown in the attached images.
 
+Importing the data into Power BI:<br>
 ![Import into Power BI](PowerBI_Screenshots/Data_import.png)
 
+The data before transformation:
 ![Before Transformation](PowerBI_Screenshots/before_transformation.png)
 
+The data after transformation:
 ![After Transformation](PowerBI_Screenshots/after_transformation.png)
 
 ## Data Modeling
