@@ -70,5 +70,5 @@ Based on the findings, several recommendations can be made to enhance road safet
 
 ## Conclusion
 Analyzing road accident trends is crucial for improving road safety. By utilizing Power BI and SQL Server, organizations can gain valuable insights, identify patterns, and perform analysis to develop effective preventive measures. This data-driven approach is essential for policymakers and stakeholders in their efforts to enhance road safety.
-The interactive dashboard can be assessed via this link [HERE](https://app.powerbi.com/view?r=eyJrIjoiZjQ5ZDczMWQtM2UwNi00YzYxLWJhODUtYzNhN2UwYmIyNGI2IiwidCI6IjVmZjhkZDRiLTBiZDMtNGRjYS1hNjc2LTgzNmQwN2I0MWNhMSIsImMiOjh9)
+The interactive dashboard can be assessed via this link [HERE](https://app.powerbi.com/view?r=eyJrIjoiNWY0NGFmNjAtOWQzOC00ODIwLTk1YzEtZGUxMWUxOGQ3ZjExIiwidCI6IjVmZjhkZDRiLTBiZDMtNGRjYS1hNjc2LTgzNmQwN2I0MWNhMSIsImMiOjh9&pageName=ReportSection)
 
